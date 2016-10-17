@@ -13,7 +13,7 @@
 
 
     <Button
-        android:text="Ejemplo aceptar"
+        android:text="Ejemplo aceptar "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="224dp"
