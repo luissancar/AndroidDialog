@@ -21,7 +21,7 @@
         android:elevation="24dp"
         android:onClick="aler" />
     <Button
-        android:text="ejemplo si/no"
+        android:text="ejemplo confirmar/aceptar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="304dp"
